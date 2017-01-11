@@ -1,0 +1,2 @@
+# Jagruti
+manual repository
